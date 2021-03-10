@@ -149,7 +149,7 @@ Complete!
 
 ---
 
-### Static Native Image Build
+#### Static Native Image Build
 
 When executing a static native image compile using `musl:`
 
